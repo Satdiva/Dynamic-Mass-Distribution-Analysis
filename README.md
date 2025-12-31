@@ -1,3 +1,5 @@
+Legal Notice: This repository is an open-source academic exercise in rotational mechanics and mass-distribution sensitivity. All models are theoretical and based on public NASA/NOAA datasets. The author is an independent researcher dedicated to the advancement of orbital navigation accuracy.
+
 # Planetary Inertia & Orbital Sensitivity Audit (PIOSA)
 
 ## Abstract
@@ -28,3 +30,5 @@ This work is a **Labour of Love** created for excellence and responsibility. It 
 
 ---
 *Developed by The Splendid Council.*
+
+Legal Notice: This repository is an open-source academic exercise in rotational mechanics and mass-distribution sensitivity. All models are theoretical and based on public NASA/NOAA datasets. The author is an independent researcher dedicated to the advancement of orbital navigation accuracy.
